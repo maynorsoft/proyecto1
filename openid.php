@@ -1,6 +1,6 @@
 <?php
 /* vim: set expandtab sw=4 ts=4 sts=4: */
-/**
+/** hice un pequeno cambio aqui
  * Single signon for phpMyAdmin using OpenID
  *
  * This is just example how to use single signon with phpMyAdmin, it is
